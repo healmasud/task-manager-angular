@@ -8,9 +8,9 @@ Live netlify demo of the application can be found here: https://abdulla-task-man
 
 ## Screenshort
 
-![Pic](https://raw.githubusercontent.com/healmasud/react-todo-list/master/github-overview/full.png)
+![Pic](https://raw.githubusercontent.com/healmasud/task-manager-angular/master/github-overview/full.png)
 
-![Pic](https://raw.githubusercontent.com/healmasud/react-todo-list/master/github-overview/about.png)
+![Pic](https://raw.githubusercontent.com/healmasud/task-manager-angular/master/github-overview/about.png)
 
 ## Install the project
 
