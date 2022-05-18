@@ -1,6 +1,6 @@
-# Task Tracker with angularJS
+# Task Tracker with angular
 
-This Task manager application build with angularJS and TypeScript which allows you to add, remove tasks on the app. This app is implemented with routing function and reminder facilities.
+This Task manager application build with angular and TypeScript which allows you to add, remove tasks on the app. This app is implemented with routing function and reminder facilities.
 
 ### Live demo
 
