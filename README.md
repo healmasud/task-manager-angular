@@ -6,7 +6,7 @@ This Task manager application build with angular and TypeScript which allows you
 
 Live netlify demo of the application can be found here: https://abdulla-task-manager-angular.netlify.app/
 
-## Screenshort
+## Screenshot
 
 ![Pic](https://raw.githubusercontent.com/healmasud/task-manager-angular/master/github-overview/full.png)
 
